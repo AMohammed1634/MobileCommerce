@@ -1,0 +1,152 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Feb 23, 2019, 12:01:09 PM
+    Author     : Ahmed
+*/
+
+.srech{
+    color: #007BFF;
+    border-color: #007BFF;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.srech:hover{
+    color: #fff;
+    background-color: #007BFF;
+    border-color: #007BFF;
+}
+.navbar-brand{
+    font-size: 30px;
+}
+.navbar-brand span{
+    font-size: 35px;
+    color: #007BFF;
+    font-weight: bold;
+}
+.nav-link{
+    display: inline;
+}
+.miitem{
+    color:#636B6F;
+    font-size: 20px;
+    transition: all ease-in-out 0.25s;
+}
+.miitem:hover{
+    color:#FFF;
+    background-color: #4781AB;;
+}
+.miheader{
+    width: 100%;
+    height: 700px;
+    
+    background-size: cover;
+}
+.back{
+    width: 100%;
+    height: 100%;
+    background-color:rgba(227,242,253,0.6);
+}
+.container h1{
+    text-align: center;
+    font-size: 95px;
+    color:#000;
+    font-weight: bold;
+    padding-top: 200px;
+}
+.container h1 i{
+    margin-right: 33px;
+    font-size: 157px;
+    color: #007BFF;
+}
+.left , .right , .left h3{
+    float: left;
+    width: 25%;
+    box-sizing: border-box;
+    padding: 15px;
+    color: #000;
+    font-weight: 700;
+}
+.right{
+    float: left;
+    width:75%;
+    box-sizing: border-box;
+
+}
+ul{
+    list-style: none outside none;
+    line-height: 200%;
+}
+ul i{
+    margin-right: 10px;
+    cursor: pointer;
+}
+.card{
+    margin: 10px;
+    width: 47.5%;
+    float: left;
+    height: 290px;
+}
+.card img{
+    margin: 10px;
+    width: 100%;
+    height: 90%;
+}
+.icon{
+    text-align: center;
+}
+.icon i {
+    font-size: 25px;
+    border-radius: 50%;
+    border:2px solid #DDD;
+    padding: 12px;
+    font-size: 22px;
+width: 50px;
+height: 50px;
+line-height: 31px;
+margin-right: 15px;
+margin-left: 15px;
+text-indent: 2.8px;
+padding: 10px;
+cursor: pointer;
+border-radius: 50%;
+border: 1px solid #7b7878;
+}
+.icon :hover{
+    background-color: #03A9F4;
+border-color: #03A9F4;
+color: #FFF;
+}
+.milist:hover{
+    cursor: pointer;
+}
+.mibuttonn:hover {
+
+    color: #FFF;
+    background-color: #007BFF;
+    border-color: #dae0e5;
+
+}
+.milist:hover{
+    color: #03A9F5;
+    cursor: pointer;
+}
+
+.test{
+    color: #FFF;
+    background-color: #000;
+}
+.mihover{
+    transition: all ease-in-out 0.3s
+}
+.view-item{
+    
+}
+.mihover:hover /*, .view-item:hover*/{
+    background-color: #FBF7F7;
+    box-shadow: 4px 4px 5px 0px #DDD,
+                   -4px -4px 5px 0px #DDD;;
+}
